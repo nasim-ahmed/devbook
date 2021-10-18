@@ -1,0 +1,5 @@
+{
+    "typescript.suggestionActions.enabled": false,
+    "javascript.suggestionActions.enabled": false, 
+    "git.ignoreLimitWarning": true
+}
